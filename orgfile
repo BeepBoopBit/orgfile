@@ -1,0 +1,2 @@
+#!/bin/bash
+python ~/bashes/scripts/py/orgfile.py
